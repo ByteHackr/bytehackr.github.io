@@ -3,6 +3,14 @@ title   = "Sandipan Roy"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
