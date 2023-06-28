@@ -104,12 +104,6 @@ disableHugoGeneratorInject = false
   # Social icons
 
   [[params.social]]
-    name = "gpg"
-    desc = "Gpg Cryptographic key"
-    url = "https://keybase.io/bytehackr/pgp_keys.asc"
-    external = true
-
-  [[params.social]]
     name = "linkedin"
     desc = "Linkedin"
     url  = "https://www.linkedin.com/in/bytehackr"
@@ -163,6 +157,12 @@ disableHugoGeneratorInject = false
     name = "telegram"
     desc = "Telegram"
     url  = "https://t.me/bytehackr"
+    external = true
+    
+  [[params.social]]
+    name = "gpg"
+    desc = "Gpg Cryptographic key"
+    url = "https://keybase.io/bytehackr/pgp_keys.asc"
     external = true
 
   [[params.social]]
