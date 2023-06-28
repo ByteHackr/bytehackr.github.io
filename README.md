@@ -1,2 +1,1 @@
-
-![example workflow](.github/workflows/main.yml/badge.svg)
+![status](https://github.com/bytehackr/bytehackr.github.io/.github/workflows/hugo.yml/badge.svg)
